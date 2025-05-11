@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Omarshmb
+Comment=Open terminal and run Python in venv
+Exec=/home/jee/Desktop/run.sh
+Icon=utilities-terminal
+Terminal=false
+Type=Application
